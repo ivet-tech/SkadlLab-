@@ -1,6 +1,6 @@
 # SkaldLab-
 
-##Make a web site
+#Make a web site
 
 #Main page
 -Centered hero, the first thing a user sees should be highlited
