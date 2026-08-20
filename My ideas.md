@@ -5,6 +5,7 @@
 - Two lecturers, 4 hours one the other 4 hours the others. 
 - Directions studies- Software, Robotics, Game dev, Web dev, AI study and etch.
 - Two hours children will learn to work with something with no rush and team work between children is very important, the other 2 hours they will go deeper into that material.
+- Children can work alone in a solo for each direction but there can be also big teams from 1-8 kids 
 
 ## 1. "Physical Web & Смарт Трасе" (Мрежи, Веб & Софтуер)
 Формат: 2 x 2 часа | Възраст: 10–18 г.
